@@ -46,7 +46,7 @@ PINECODE_API_KEY=
 PINECONE_INDEX=
 ```
 
-4. Modify the user question in the file
+4. Modify the user question in `app.js`.
    
 5. Run the app:
 
